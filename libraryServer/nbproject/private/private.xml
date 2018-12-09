@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Shehab/Documents/java%20projects/libraryServer/src/testpackage/test.java</file>
+            <file>file:/C:/Users/Shehab/Documents/java%20projects/libraryServer/src/bookSubSystem/bookBorrowal.java</file>
+            <file>file:/C:/Users/Shehab/Documents/java%20projects/libraryServer/src/bookSubSystem/bookInventory.java</file>
+            <file>file:/C:/Users/Shehab/Documents/java%20projects/libraryServer/src/rmi/bookRemoteFacade.java</file>
+            <file>file:/C:/Users/Shehab/Documents/java%20projects/libraryServer/src/rminewserver/bookRmiServer.java</file>
+            <file>file:/C:/Users/Shehab/Documents/java%20projects/libraryServer/src/bookSubSystem/bookDataMapper.java</file>
+        </group>
+    </open-files>
+</project-private>
